@@ -1,3 +1,3 @@
-# This ismy first repo's readme file
-Typo first time; header should read:
 # This is my first repo's readme file
+My name is Robert, I love tech, and I code Javascript.
+
